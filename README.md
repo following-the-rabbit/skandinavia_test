@@ -2,7 +2,8 @@
 https://github.com/following-the-rabbit/skandinavia_test/blob/main/test_scandinavia.py
 
 #### Инструкции по запуску тестов:
-* Установить зависимости:*
+* Установить зависимости:
+  
   pip install requests pytest allure-pytest
 * Запусти тесты:
   pytest -v --alluredir=./allure-results
