@@ -1,4 +1,4 @@
-### Исходный код тестов 
+### Исходный код тестов: 
 https://github.com/following-the-rabbit/skandinavia_test/blob/main/test_scandinavia.py
 
 ### Инструкции по запуску тестов:
@@ -7,5 +7,5 @@ https://github.com/following-the-rabbit/skandinavia_test/blob/main/test_scandina
 * Сгенерировать и открыть отчет Allure: allure serve ./allure-results
 * (Опционально) Если нужно сгенерировать HTML-отчёт: allure generate allure-results -o allure-report --clean
 
-### Отчет о результатах выполнения тестов Allure 
+### Отчет о результатах выполнения тестов Allure: 
 https://following-the-rabbit.github.io/skandinavia_test/
